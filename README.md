@@ -1,6 +1,6 @@
-# Automatic_synthesis_of_medical_records
+# 🏥 Automatic_synthesis_of_medical_records
 
-# 🏥 Automatic Clinical Record Summarizer
+
 
 Questo progetto costruisce un sistema **automatico e scalabile** per la **sintesi di cartelle cliniche** ospedaliere, partendo da un file JSON remoto. Utilizza il modello **BART (facebook/bart-large-cnn)** di HuggingFace per generare riassunti NLP leggibili e informativi per ogni paziente.
 
